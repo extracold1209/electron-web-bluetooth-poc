@@ -1,0 +1,13 @@
+{
+  "name": "electron-web-bluetooth-poc",
+  "version": "1.0.0",
+  "description": "web bluetooth API in chrome PoC using electron 6",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^6.0.8"
+  }
+}
